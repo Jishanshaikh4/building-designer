@@ -1,5 +1,5 @@
 ## Building Designer [Cooking yet]
-A Computer Graphics project which provides complete solutions for residential house construction plan in various sized sites.
+A traditional computer Graphics project implemented in C programming language which provides complete solutions for residential house construction plan in various sized sites.
 
 ## Sections
 
