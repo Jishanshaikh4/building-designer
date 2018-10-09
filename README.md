@@ -1,5 +1,5 @@
-## Building Designer [Hold on]
-A traditional computer Graphics project implemented in C programming language which provides complete solutions for residential house construction plan in various sized sites.
+## Building Designer
+A traditional legacy computer Graphics project implemented in C programming language which provides complete solutions for residential house construction plan in various sized sites.
 
 ## Sections
 
