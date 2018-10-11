@@ -9,7 +9,7 @@ A traditional legacy computer Graphics project implemented in C programming lang
 
 ### About
 
-This project deals with construction plan of residential houses graphically using C programming (Using graphics.h for Borland C Compiler). It consists of 3 main modules and 7 sub-modules. The main modules deals with three different sized sites 30X40Ft, 40X50Ft, and 40X60Ft. Sub-modules deals with other specifications with combinations of room size & numbers, parking (if any), compound, etc. This project is inspired from and extended form of project BUILDESIGNER.
+This project deals with construction plan of residential houses graphically using C programming (Using graphics.h for Borland C Compiler). It consists of 3 main modules and 7 sub-modules. The main modules deals with three different sized sites 30X40Ft, 40X50Ft, and 40X60Ft. Sub-modules deals with other specifications with combinations of room size & numbers, parking (if any), compound, etc. This project is inspired from and extended form of project BUILDESIGNER (Legacy).
 
 
 ### To do
